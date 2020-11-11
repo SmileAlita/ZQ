@@ -1,7 +1,7 @@
 
 ![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Sunert&show_icons=true&theme=merko)
 
-# 本仓库不再维护 德克萨斯的龙卷风
+# 德克萨斯的龙卷风
 
 ## 免责声明: 
 
@@ -19,9 +19,6 @@
 
  **您必须在下载后的24小时内从计算机或手机中完全删除以上内容.**  </br>
 > ***您使用或者复制了本仓库且本人制作的任何脚本，则视为`已接受`此免责声明，请仔细阅读*** 
-
-#### 开发者不易,请赏杯茶水费
-<div align=center><img width="200" height="200" src="https://gitee.com/Sunert/ProxyConfig/raw/master/QuantumultX/Rules/Images/Complimentcode.jpeg"/></div>
 
 
 ### 特别感谢：
